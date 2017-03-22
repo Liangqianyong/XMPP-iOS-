@@ -1,0 +1,16 @@
+//
+//  XMPP.pch
+//  XMPP
+//
+//  Created by 梁前勇 on 2017/3/17.
+//  Copyright © 2017年 梁前勇. All rights reserved.
+//
+
+#ifndef XMPP_pch
+#define XMPP_pch
+#import <UIKit/UIKit.h>
+#import "XMPPConfig.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* XMPP_pch */
